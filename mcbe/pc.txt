@@ -1,0 +1,5 @@
+Reach: 8F84D50
+Hitbox width: F3 0F 10 40 18 48 83 C4 20
+
+Private:
+Hitbox height
